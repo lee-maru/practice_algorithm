@@ -61,9 +61,7 @@ public class Solution2{
         // role 0
         if ( N < 3 || N == 4 || N ==7){
             System.out.println(-1);
-        }
-
-        if (N%5 == 1) { // role 1
+        }else if (N%5 == 1) { // role 1
             System.out.println((N/5) + 1);
         }else if(N%5 == 2){ // role 2
             System.out.println((N/5) + 2);
