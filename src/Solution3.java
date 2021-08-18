@@ -27,5 +27,33 @@
  * 10000
  * 50000
  */
+
+import java.util.Scanner;
+import java.util.Arrays;
+
 public class Solution3 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int N = sc.nextInt(); // 화폐 종류 갯수
+        int V = sc.nextInt(); // 금액
+        int result = 0;
+        int[] arr = new int[N];
+
+        // 화폐 단위 입력 받기
+        for(int i=0; i<N; i++){
+            arr[i] = sc.nextInt();
+        }
+        // 화폐 정렬
+        Arrays.sort(arr);
+        
+        // 금액이 0이 될 때 까지 진행
+        for(int i=arr.length-1; i>0; i--){
+            if(V > arr[i]){ // 현재 가지고 있는 금액보다 클 경우 ex) 금액 : 5000 잔돈 : 4000 일경우 ok, 금액 5000, 잔돈 6000원 일 경우 false
+                result = result + V/arr[i];
+                V = V%arr[i];
+            }
+        }
+        System.out.println(result);
+    }
+
 }
