@@ -1,12 +1,24 @@
-## algorithm practice [Lee-Maru]
+![img.png](img.png) 
+## Maru's Algorithm practice
 
+---
+#### Description
 This is practice repository, thank you
 
 If I can't solveing algorithm problem within 1hour,
 
 I will find another answer. After 1 month I will solve problem again.
 
-![img.png](img.png)
+
+#### Scheduled table
+
+|Week|Algorithm|Success|
+|------|---|---|
+|1|Greedy|ing|
+|2| BFS |Not yet|
+|3| DFS|Not yet|
+|4| DP |Not yet|
+|5| Graph |Not yet|
 
 ---
 ### [Greedy]
@@ -22,6 +34,6 @@ I will find another answer. After 1 month I will solve problem again.
 - [x] [BaekJoon 5585](https://www.acmicpc.net/problem/5585) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution6.java 
 - [x] [BaekJoon 227](https://www.acmicpc.net/problem/2217) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution7.java
 - [x] [BaekJoon 10162](https://www.acmicpc.net/problem/10162) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution8.java
-- [ ] [BaekJoon 1946](https://www.acmicpc.net/problem/1946) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution9.java
+- [x] [BaekJoon 1946](https://www.acmicpc.net/problem/1946) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution9.java
 
 ---

@@ -51,17 +51,16 @@ public class Solution8 {
         if(second%10 != 0){
             System.out.println(-1);
         }else{
-            if (second >= 300) {
+            if (second >= 300) { // 5분 60초 * 5분
                 cntFive = cntFive + (second / 300);
                 second = second % 300;
             }
-            if(second >= 60){
+            if(second >= 60){ // 1분 60초 * 1
                 cntOne = cntOne + (second / 60);
                 second = second % 60;
             }
-            if(second >= 10){
+            if(second >= 10){ // 10초
                 cntTenSecond = cntTenSecond + (second / 10);
-                second = second % 10;
             }
             System.out.println(cntFive+" "+cntOne+" "+cntTenSecond);
         }
