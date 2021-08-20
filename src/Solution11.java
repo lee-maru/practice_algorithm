@@ -33,10 +33,17 @@ public class Solution11 {
             int distance = distances[i];
             int fee = cityOilFee[i];
             for (int j=i; j<cityOilFee.length-1; j++){
-                if(fee < cityOilFee[j]){
-                    distance += distances[j];
-                    distances[j]=0;
-                    i++;
+                int other = cityOilFee[j+1];
+                if(fee < other){
+                    if(j+1 != distances.length){
+
+                        //System.out.println("fee :" +fee +" < "+" other "+other );
+                        //System.out.println("distance :" +distance +" + "+" other "+distances[j+1] );
+                        distance += distances[j+1];
+                        distances[j+1]=0;
+                    }
+                }else{
+                    break;
                 }
             }
             result = result + (fee*distance);
