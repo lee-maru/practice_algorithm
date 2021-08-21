@@ -14,14 +14,13 @@ I will find another answer. After 1 month I will solve problem again.
 
 |Week|Algorithm|Success|No solving|
 |------------|---------|---------|----------|
-|1|Greedy|ing|[Solution11 단어수학](https://www.acmicpc.net/problem/1339), [Solution12](https://www.acmicpc.net/problem/1715)|
+|1|Greedy|ing|[Solution11](https://www.acmicpc.net/problem/1339), [Solution12](https://www.acmicpc.net/problem/1715)|
 |2| BFS |Not yet||
 |3| DFS|Not yet||
 |4| DP |Not yet||
-|5| Graph |Not yet||
 
 ---
-### [Greedy] [14/50]
+### [Greedy] [16/50]
 
 - 2021-08-17 Tuesday
 - [ ] [BaekJoon 11399](https://www.acmicpc.net/problem/113991) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution1.java  
@@ -43,4 +42,5 @@ I will find another answer. After 1 month I will solve problem again.
 - [x] [BaekJoon 1715](https://www.acmicpc.net/problem/1715) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution13.java
 - [ ] [BaekJoon 1715](https://www.acmicpc.net/problem/4796) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution14.java
 - [ ] [BaekJoon 1744](https://www.acmicpc.net/problem/1744) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution15.java
+- [ ] [BaekJoon 1439](https://www.acmicpc.net/problem/1439) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution16.java
 ---
