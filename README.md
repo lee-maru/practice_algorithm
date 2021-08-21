@@ -12,13 +12,13 @@ I will find another answer. After 1 month I will solve problem again.
 
 #### Scheduled table
 
-|Week|Algorithm|Success|
-|------|---|---|
-|1|Greedy|ing|
-|2| BFS |Not yet|
-|3| DFS|Not yet|
-|4| DP |Not yet|
-|5| Graph |Not yet|
+|Week|Algorithm|Success|No solving|
+|------------|---------|---------|----------|
+|1|Greedy|ing|[Solution11 단어수학](https://www.acmicpc.net/problem/1339)|
+|2| BFS |Not yet||
+|3| DFS|Not yet||
+|4| DP |Not yet||
+|5| Graph |Not yet||
 
 ---
 ### [Greedy]
@@ -38,5 +38,7 @@ I will find another answer. After 1 month I will solve problem again.
 - 2021-08-20 Friday
 - [ ] [BaekJoon 1789](https://www.acmicpc.net/problem/1789) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution10.java
 - [ ] [BaekJoon 13305](https://www.acmicpc.net/problem/13305) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution11.java
-- [ ] [BaekJoon 1339](https://www.acmicpc.net/problem/1339) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution12.java
+- 2021-08-21 Saturday
+- [x] [BaekJoon 1339](https://www.acmicpc.net/problem/1339) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution12.java
+
 ---
