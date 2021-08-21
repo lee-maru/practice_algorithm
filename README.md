@@ -42,4 +42,5 @@ I will find another answer. After 1 month I will solve problem again.
 - [x] [BaekJoon 1339](https://www.acmicpc.net/problem/1339) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution12.java
 - [x] [BaekJoon 1715](https://www.acmicpc.net/problem/1715) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution13.java
 - [ ] [BaekJoon 1715](https://www.acmicpc.net/problem/4796) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution14.java
+- [ ] [BaekJoon 1744](https://www.acmicpc.net/problem/1744) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution15.java
 ---
