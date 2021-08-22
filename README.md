@@ -20,7 +20,7 @@ I will find another answer. After 1 month I will solve problem again.
 |4| DP |Not yet||
 
 ---
-### [Greedy] [16/50]
+### [Greedy] [17/50]
 
 - 2021-08-17 Tuesday
 - [ ] [BaekJoon 11399](https://www.acmicpc.net/problem/113991) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution1.java  
@@ -43,4 +43,9 @@ I will find another answer. After 1 month I will solve problem again.
 - [ ] [BaekJoon 1715](https://www.acmicpc.net/problem/4796) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution14.java
 - [ ] [BaekJoon 1744](https://www.acmicpc.net/problem/1744) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution15.java
 - [ ] [BaekJoon 1439](https://www.acmicpc.net/problem/1439) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution16.java
+- [ ] [BaekJoon 1439](https://www.acmicpc.net/problem/1439) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution16.java
+- [x] [BaekJoon 1080](https://www.acmicpc.net/problem/1080) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution17.java
+- 2021-08-22 Sunday
+- [x] [BaekJoon 1202](https://www.acmicpc.net/problem/1202) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution18.java (시간초과)
+
 ---
