@@ -48,27 +48,23 @@
  * 예제 출력 2
  * 164
  */
-import java.util.Scanner;
-import java.util.List;
-import java.util.ArrayList;
-import java.util.PriorityQueue;
+import java.util.*;
 
 public class Solution18 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt(); // 보석 갯수
         int K = sc.nextInt(); // 가방 갯수
-        List<Jewel> jewels = new ArrayList<>(); // 훔칠 보석 리스트 생성
+        Jewel[] jewels = new Jewel[N];
         PriorityQueue<Integer> bags = new PriorityQueue<>(); // 가방 리스트 생성
         int result = 0; // 총 훔친 보석의 가격
 
         for (int i = 0; i < N; i++) {
             int weight = sc.nextInt(); // 보석의 무게
             int price = sc.nextInt(); // 보석의 가격
-            jewels.add(new Jewel(weight,price));
+            jewels[i] = new Jewel(weight,price);
         }
-
-        jewels.sort(Jewel::compareTo); // 가격별로 정렬;
+        Arrays.sort(jewels);
 
         for(int i=0; i<K; i++){
             bags.offer(sc.nextInt()); // 가방의 무게를 입력
@@ -76,12 +72,12 @@ public class Solution18 {
 
         while(!bags.isEmpty()){
             int bagWeight = bags.poll();
-            for (int j = 0; j < jewels.size(); j++) {
-                Jewel expectedStealJewel = jewels.get(j);
+            for (int j = 0; j < jewels.length; j++) {
+                Jewel expectedStealJewel = jewels[j];
                 // 가방의 사이즈보다 훔칠 보석의 사이즈가 같거나 적은 상황 And 훔치려고 하는 보석의 상태가 훔쳐져있찌 않은 상황일 때
-                if(bagWeight >= expectedStealJewel.weight){
+                if(bagWeight >= expectedStealJewel.weight && !expectedStealJewel.stealStatus){
                     result = result+expectedStealJewel.price; // 결과 값에 자신이 훔친
-                    jewels.remove(j); // 리스트에서 제거
+                    jewels[j].stealStatus = true; // 리스트에서 제거
                     break; // 이미 가방에 훔쳤다면, 다른 물건을 훔칠 수 없으므로 종료
                 }
             }
@@ -92,7 +88,7 @@ public class Solution18 {
     static public class Jewel implements Comparable<Jewel>{
         int weight; // 무게
         int price; // 가격
-
+        boolean stealStatus = false;
         public Jewel(int weight, int price){
             this.weight = weight;
             this.price = price;
