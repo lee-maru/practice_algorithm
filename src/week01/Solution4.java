@@ -1,4 +1,4 @@
-//문제 : https://www.acmicpc.net/problem/1931
+package week01;//문제 : https://www.acmicpc.net/problem/1931
 
 /**
  * 문제

@@ -1,4 +1,4 @@
-/**
+package week01; /**
  * 문제 : https://www.acmicpc.net/problem/1449
  *
  * 항승이는 품질이 심각하게 나쁜 수도 파이프 회사의 수리공이다.

@@ -1,4 +1,4 @@
-/**
+package week01; /**
  * 출처 : https://www.acmicpc.net/problem/1339
  * 민식이는 수학학원에서 단어 수학 문제를 푸는 숙제를 받았다.
  *

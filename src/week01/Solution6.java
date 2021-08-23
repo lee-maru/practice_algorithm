@@ -1,4 +1,4 @@
-/** @link : https://www.acmicpc.net/problem/5585
+package week01; /** @link : https://www.acmicpc.net/problem/5585
  *
  * @implNote 타로는 자주 JOI잡화점에서 물건을 산다.
  * JOI잡화점에는 잔돈으로 500엔, 100엔, 50엔, 10엔, 5엔, 1엔이 충분히 있고, 언제나 거스름돈 개수가 가장 적게 잔돈을 준다.
