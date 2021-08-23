@@ -20,7 +20,7 @@ I will find another answer. After 1 month I will solve problem again.
 |4| DP |0/50|0/50|0/50|
 
 ---
-### [Greedy] [18/50]
+### [Greedy] [20/50]
 
 - 2021-08-17 Tuesday
 - [ ] [BaekJoon 11399](https://www.acmicpc.net/problem/113991) : https://github.com/lee-maru/practice_algorithm/blob/master/src/week01.Solution1.java  
@@ -49,12 +49,11 @@ I will find another answer. After 1 month I will solve problem again.
 - [x] [BaekJoon 1202 (timeOut)](https://www.acmicpc.net/problem/1202) : https://github.com/lee-maru/practice_algorithm/blob/master/src/week01.Solution18.java
 - [x] [BaekJoon 2437 (noIdea)](https://www.acmicpc.net/problem/2437) : https://github.com/lee-maru/practice_algorithm/blob/master/src/week01.Solution19.java
 - [ ] [BaekJoon 1449](https://www.acmicpc.net/problem/1449) : https://github.com/lee-maru/practice_algorithm/blob/master/src/week01.Solution20.java
-- [ ] [BaekJoon 16593](https://www.acmicpc.net/problem/16953) : https://github.com/lee-maru/practice_algorithm/blob/master/src/week01.Solution21.java
 ---
 
-### [BFS / Breadth-First Search] [0/50]
+### [BFS / Breadth-First Search] [3/50]
 - 2021-08-23 Monday
-- [ ] [BaekJoon 1260](https://www.acmicpc.net/problem/1260) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution22.java
-
-
+- [ ] [BaekJoon 1260](https://www.acmicpc.net/problem/1260) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution21.java
+- [ ] [BaekJoon 2178](https://www.acmicpc.net/problem/2178) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution22.java
+- [ ] [BaekJoon 2178](https://www.acmicpc.net/problem/2667) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution23.java
 ---
