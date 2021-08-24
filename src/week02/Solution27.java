@@ -20,5 +20,38 @@ package week02;
  * 예제 출력 1
  * 4
  */
+import java.util.Scanner;
+import java.util.Queue;
+import java.util.LinkedList;
+
 public class Solution27 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int N = sc.nextInt();
+        int K = sc.nextInt();
+        int result = 0;
+        Queue<Integer> q = new LinkedList<>();
+        q.offer(N);
+        while(!q.isEmpty()){
+            int now = q.poll();
+            if(now == K) // 위치를 잡았으면 멈춤
+                break;
+            result++;
+            if(now > K){ // 현 위치가 잡으려고 하는 위치보다 더 많이갔을 경우
+                q.offer(now-1);
+            }else {
+                if(now * 2 > K){
+                    if(Math.abs(K-(now*2)) > K-now){
+                        q.offer(now+1);
+                    }else{
+                        q.offer(now*2);
+                    }
+                }else{
+                    q.offer(now*2);
+                }
+            }
+        }
+        System.out.println(result);
+
+    }
 }

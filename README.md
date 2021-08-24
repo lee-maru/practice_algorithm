@@ -2,9 +2,7 @@
 
 ![img.png](img.png)
 ## Maru's Algorithm practice
-
 </center>
-
 
 ---
 #### Description
@@ -15,16 +13,6 @@ If I can't solveing algorithm problem within 1hour,
 
 I will find another answer. After 1 month I will solve problem again.
 ```
-
-```mermaid
-pie
-    title Solving Algorithm Chart
-    "Greedy" : 20
-    "BFS" : 6
-    "DFS" : 0
-    "DP" : 0 
-```
-
 
 #### Scheduled table
 |Week|Algorithm|Success1|Success2|Success3|
@@ -37,7 +25,7 @@ pie
 ### [Greedy] [20/50]
 
 <details>
-<summary> Solving Question <strong>Greedy Button</strong></summary>
+<summary> Click here! Questions <strong>Greedy Button</strong></summary>
 <div markdown="1">
 
 - 2021-08-17 Tuesday
@@ -76,7 +64,7 @@ pie
 ### [BFS / Breadth-First Search] [6/50]
 
 <details>
-<summary> Solving Question <strong>BFS Button</strong></summary>
+<summary> Click here! Solving Question <strong>BFS Button</strong></summary>
 <div markdown="1">
 
 - 2021-08-23 Monday
@@ -87,7 +75,8 @@ pie
 - [ ] [BaekJoon 2606](https://www.acmicpc.net/problem/2606) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution24.java
 - [ ] [BaekJoon 1012](https://www.acmicpc.net/problem/1012) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution25.java
 - [ ] [BaekJoon 7576](https://www.acmicpc.net/problem/7576) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution26.java
-- [ ] [BaekJoon 1697](https://www.acmicpc.net/problem/1697) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution27.java
+- 2021-08-24 Wednesday
+- [x] [BaekJoon 1697](https://www.acmicpc.net/problem/1697) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution27.java
 
 
 </div>
