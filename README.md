@@ -57,4 +57,6 @@ I will find another answer. After 1 month I will solve problem again.
 - [ ] [BaekJoon 2178](https://www.acmicpc.net/problem/2178) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution22.java
 - [x] [BaekJoon 2178 (hint, dfs)](https://www.acmicpc.net/problem/2667) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution23.java
 - 2021-08-24 Tuesday
+- [ ] [BaekJoon 2606](https://www.acmicpc.net/problem/2606) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution24.java
+- [ ] [BaekJoon 1012](https://www.acmicpc.net/problem/1012) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution25.java
 ---
