@@ -1,5 +1,10 @@
-![img.png](img.png) 
+<center> 
+
+![img.png](img.png)
 ## Maru's Algorithm practice
+
+</center>
+
 
 ---
 #### Description
@@ -9,6 +14,15 @@ This is practice repository, thank you
 If I can't solveing algorithm problem within 1hour,
 
 I will find another answer. After 1 month I will solve problem again.
+```
+
+```mermaid
+pie
+    title Solving Algorithm Chart
+    "Greedy" : 20
+    "BFS" : 6
+    "DFS" : 0
+    "DP" : 0 
 ```
 
 
