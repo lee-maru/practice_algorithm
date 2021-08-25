@@ -63,7 +63,7 @@ I will find another answer. After 1 month I will solve problem again.
 
 ---
 
-### [BFS / Breadth-First Search] [8/50]
+### [BFS / Breadth-First Search] [10/50]
 |Week|Algorithm|Success1|Success2|Success3|
 |------------|---------|---------|---------|---------|
 |2| BFS |8/50|0/50|0/50|
@@ -83,6 +83,7 @@ I will find another answer. After 1 month I will solve problem again.
 - [x] [BaekJoon 1697(hint)](https://www.acmicpc.net/problem/1697) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution27.java)
 - [ ] [BaekJoon 11724](https://www.acmicpc.net/problem/11724) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution28.java)
 - [x] [BaekJoon 11724(hint)](https://www.acmicpc.net/problem/14502) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution29.java)
+- [x] [BaekJoon 4963](https://www.acmicpc.net/problem/4963) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution30.java)
 
 </div>
 </details>
