@@ -5,7 +5,7 @@
 </center>
 
 ---
-#### Description
+### Description
 ```
 This is practice repository, thank you
 
@@ -13,17 +13,19 @@ If I can't solveing algorithm problem within 1hour,
 
 I will find another answer. After 1 month I will solve problem again.
 ```
+---
 
-#### Scheduled table
+### Schedule
+
+---
+
+### Total solve : 28
+
+---
+### [Greedy] [20/50]
 |Week|Algorithm|Success1|Success2|Success3|
 |------------|---------|---------|---------|---------|
 |1|Greedy|20/50|0/50|0/50|
-|2| BFS |6/50|0/50|0/50|
-|3| DFS|0/50|0/50|0/50|
-|4| DP |0/50|0/50|0/50|
----
-### [Greedy] [20/50]
-
 <details>
 <summary> <strong style="color:dodgerblue"> Click here! </strong> Greedy Button </summary>
 <div markdown="1">
@@ -61,8 +63,10 @@ I will find another answer. After 1 month I will solve problem again.
 
 ---
 
-### [BFS / Breadth-First Search] [6/50]
-
+### [BFS / Breadth-First Search] [8/50]
+|Week|Algorithm|Success1|Success2|Success3|
+|------------|---------|---------|---------|---------|
+|2| BFS |8/50|0/50|0/50|
 <details>
 <summary> <strong style="color:dodgerblue"> Click here!</strong> BFS Button</summary>
 <div markdown="1">
@@ -76,8 +80,35 @@ I will find another answer. After 1 month I will solve problem again.
 - [ ] [BaekJoon 1012](https://www.acmicpc.net/problem/1012) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution25.java
 - [ ] [BaekJoon 7576](https://www.acmicpc.net/problem/7576) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution26.java
 - 2021-08-24 Wednesday
-- [x] [BaekJoon 1697](https://www.acmicpc.net/problem/1697) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution27.java
+- [x] [BaekJoon 1697(hint)](https://www.acmicpc.net/problem/1697) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution27.java
 - [ ] [BaekJoon 11724](https://www.acmicpc.net/problem/11724) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution28.java
+- [x] [BaekJoon 11724(hint)](https://www.acmicpc.net/problem/14502) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution29.java
+
+</div>
+</details>
+
+---
+
+### [DFS / Depth-First Search] [0/50]
+|Week|Algorithm|Success1|Success2|Success3|
+|------------|---------|---------|---------|---------|
+|3| DFS|0/50|0/50|0/50|
+<details>
+<summary> <strong style="color:dodgerblue"> Click here!</strong> BFS Button</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+---
+
+### [DP / Dynamic_programming] [0/50]
+|Week|Algorithm|Success1|Success2|Success3|
+|------------|---------|---------|---------|---------|
+|4| DP|0/50|0/50|0/50|
+<details>
+<summary> <strong style="color:dodgerblue"> Click here!</strong> BFS Button</summary>
+<div markdown="1">
 
 </div>
 </details>
