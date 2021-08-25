@@ -77,6 +77,7 @@ I will find another answer. After 1 month I will solve problem again.
 - [ ] [BaekJoon 7576](https://www.acmicpc.net/problem/7576) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution26.java
 - 2021-08-24 Wednesday
 - [x] [BaekJoon 1697](https://www.acmicpc.net/problem/1697) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution27.java
+- [ ] [BaekJoon 11724](https://www.acmicpc.net/problem/11724) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution28.java
 
 </div>
 </details>

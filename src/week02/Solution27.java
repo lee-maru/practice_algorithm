@@ -18,40 +18,46 @@ package week02;
  * 예제 입력 1
  * 5 17
  * 예제 출력 1
- * 4
+    * 4
  */
 import java.util.Scanner;
 import java.util.Queue;
 import java.util.LinkedList;
 
 public class Solution27 {
+    static int MAX = 100_001; // K(0 ≤ K ≤ 100,000) N(0 ≤ N ≤ 100,000)
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int N = sc.nextInt();
-        int K = sc.nextInt();
-        int result = 0;
-        Queue<Integer> q = new LinkedList<>();
-        q.offer(N);
+        int N = sc.nextInt(); // 수빈이의 현 위치
+        int K = sc.nextInt(); // 동생 현휘치
+        boolean[] visited = new boolean[MAX];
+        int[] timeArr = new int[MAX];
+
+        Queue<Integer> q = new LinkedList<>(); // q생성
+        q.offer(N); // 수빈이의 현위치
+        visited[N] = true; // 수빈이의 방문 위치
+
         while(!q.isEmpty()){
-            int now = q.poll();
-            if(now == K) // 위치를 잡았으면 멈춤
-                break;
-            result++;
-            if(now > K){ // 현 위치가 잡으려고 하는 위치보다 더 많이갔을 경우
-                q.offer(now-1);
-            }else {
-                if(now * 2 > K){
-                    if(Math.abs(K-(now*2)) > K-now){
-                        q.offer(now+1);
-                    }else{
-                        q.offer(now*2);
-                    }
-                }else{
-                    q.offer(now*2);
-                }
+            Integer now = q.poll();
+            if(now == K) break; // 현재 동생의 위치를 방문했다면 종료
+            if(now * 2 < MAX && !visited[now*2]){
+                q.offer(now*2); // q에 적재
+                visited[now*2] = true; // 방문
+                timeArr[now*2] = timeArr[now] + 1; // 1초 시간 증가
+            }
+
+            if(now+1 < MAX && !visited[now+1]){
+                q.offer(now+1); // q에 적재
+                visited[now+1] = true; // 방문
+                timeArr[now+1] = timeArr[now] + 1; // 1초 시간 증가
+            }
+
+            if(now-1 >= 0 && !visited[now-1]){
+                q.offer(now-1); // q에 적재
+                visited[now-1] = true; // 방문
+                timeArr[now-1] = timeArr[now] + 1; // 1초 시간 증가
             }
         }
-        System.out.println(result);
-
+        System.out.println(timeArr[K]);
     }
 }
