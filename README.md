@@ -25,7 +25,7 @@ I will find another answer. After 1 month I will solve problem again.
 ### [Greedy] [20/50]
 
 <details>
-<summary> Click here! Questions <strong>Greedy Button</strong></summary>
+<summary> <strong style="color:dodgerblue"> Click here! </strong> Greedy Button </summary>
 <div markdown="1">
 
 - 2021-08-17 Tuesday
@@ -64,7 +64,7 @@ I will find another answer. After 1 month I will solve problem again.
 ### [BFS / Breadth-First Search] [6/50]
 
 <details>
-<summary> Click here! Solving Question <strong>BFS Button</strong></summary>
+<summary> <strong style="color:dodgerblue"> Click here!</strong> BFS Button</summary>
 <div markdown="1">
 
 - 2021-08-23 Monday
@@ -77,7 +77,6 @@ I will find another answer. After 1 month I will solve problem again.
 - [ ] [BaekJoon 7576](https://www.acmicpc.net/problem/7576) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution26.java
 - 2021-08-24 Wednesday
 - [x] [BaekJoon 1697](https://www.acmicpc.net/problem/1697) : https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution27.java
-
 
 </div>
 </details>
