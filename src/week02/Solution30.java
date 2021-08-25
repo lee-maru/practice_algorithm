@@ -53,5 +53,66 @@ package week02;
  * 1
  * 9
  */
+import java.util.*;
+
 public class Solution30 {
+                    //상,하,좌,우,대각 방향
+    static int[] dy ={-1,1,0,0,-1,1,-1,1};
+    static int[] dx ={0,0,-1,1,1,-1,-1,1};
+    // 노드 위취
+    static class Node{
+        int y;
+        int x;
+        Node(int y, int x){
+            this.y = y;
+            this.x = x;
+        }
+    }
+    public static void main(String[] args) {
+        List<Integer> results = new ArrayList<>();
+        Scanner sc = new Scanner(System.in);
+        while(true){
+            Queue<Node> q = new LinkedList<>();
+            int X = sc.nextInt();
+            int Y = sc.nextInt();
+            if(Y == 0 || X == 0){ // 0 0 입력되면 종료
+                break;
+            }
+            int[][] matrix = new int[Y][X];
+            boolean[][] visited = new boolean[Y][X];
+            for (int i = 0; i < Y; i++) {
+                for (int j = 0; j < X; j++) {
+                    matrix[i][j] = sc.nextInt();
+                }
+            }
+            int result = 0;
+            for (int i = 0; i < Y; i++) {
+                for (int j = 0; j < X; j++) {
+                    if(!visited[i][j] && matrix[i][j] == 1){ // 최초 섬 발견!
+                        result ++; // 섬발견 했으니 result + 1 증가
+                        q.offer(new Node(i,j));
+                        visited[i][j] = true;
+                        while (!q.isEmpty()){
+                            Node node = q.poll();
+                            int y = node.y;
+                            int x = node.x;
+                            for (int k = 0; k < 8; k++) { // 8개의 방향으로 순회
+                                int ny = y + dy[k];
+                                int nx = x + dx[k];
+                                if(ny >= 0 && nx >= 0 && ny < Y && nx <X && !visited[ny][nx] && matrix[ny][nx] == 1){
+                                    visited[ny][nx] = true;
+                                    q.offer(new Node(ny,nx));
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            results.add(result);
+        }
+        for (Integer result : results) {
+            System.out.println(result);
+        }
+
+    }
 }
