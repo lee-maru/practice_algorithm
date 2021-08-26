@@ -79,12 +79,14 @@ I will find another answer. After 1 month I will solve problem again.
 - [ ] [BaekJoon 2606](https://www.acmicpc.net/problem/2606) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution24.java)
 - [ ] [BaekJoon 1012](https://www.acmicpc.net/problem/1012) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution25.java)
 - [ ] [BaekJoon 7576](https://www.acmicpc.net/problem/7576) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution26.java)
-- 2021-08-24 Wednesday
+- 2021-08-25 Wednesday
 - [x] [BaekJoon 1697(hint)](https://www.acmicpc.net/problem/1697) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution27.java)
 - [ ] [BaekJoon 11724](https://www.acmicpc.net/problem/11724) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution28.java)
 - [x] [BaekJoon 11724(hint)](https://www.acmicpc.net/problem/14502) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution29.java)
 - [ ] [BaekJoon 4963](https://www.acmicpc.net/problem/4963) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution30.java)
+- 2021-08-26 Thursday
 - [ ] [BaekJoon 2468](https://www.acmicpc.net/problem/2468) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution31.java)
+- [ ] [BaekJoon 2468](https://www.acmicpc.net/problem/10026) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/Solution32.java)
 
 </div>
 </details>
