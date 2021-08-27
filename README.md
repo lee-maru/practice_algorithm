@@ -90,8 +90,8 @@ I will find another answer. After 1 month I will solve problem again.
 - [ ] [BaekJoon 7569](https://www.acmicpc.net/problem/7569) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week02/Solution33.java)
 - 2021-08-27 Friday
 - [ ] [BaekJoon 2583](https://www.acmicpc.net/problem/2583) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week02/Solution34.java)
-- [ ] [BaekJoon 7562(hint)](https://www.acmicpc.net/problem/7562) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week02/Solution35.java)
-
+- [x] [BaekJoon 7562(hint)](https://www.acmicpc.net/problem/7562) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week02/Solution35.java)
+- [ ] [BaekJoon 2206](https://www.acmicpc.net/problem/2206) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week02/Solution36.java)
 </div>
 </details>
 
