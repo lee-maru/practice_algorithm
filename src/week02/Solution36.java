@@ -2,7 +2,7 @@ package week02;
 
 // https://www.acmicpc.net/problem/2206
 
-/**
+/** // 시간 초과
  * 6 4
  * 0100
  * 1110

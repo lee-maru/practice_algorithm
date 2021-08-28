@@ -19,7 +19,7 @@ I will find another answer. After 1 month I will solve problem again.
 
 ---
 
-### Total solve : 31
+### Total solve : 36
 
 ---
 ### [Greedy] [20/50]
@@ -66,7 +66,7 @@ I will find another answer. After 1 month I will solve problem again.
 ### [BFS / Breadth-First Search] [11/50]
 |Week|Algorithm|Success1|Success2|Success3|
 |------------|---------|---------|---------|---------|
-|2| BFS |11/50|0/50|0/50|
+|2| BFS |16/50|0/50|0/50|
 <details>
 <summary> <strong style="color:dodgerblue"> Click here!</strong> BFS Button</summary>
 <div markdown="1">
@@ -91,7 +91,10 @@ I will find another answer. After 1 month I will solve problem again.
 - 2021-08-27 Friday
 - [ ] [BaekJoon 2583](https://www.acmicpc.net/problem/2583) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week02/Solution34.java)
 - [x] [BaekJoon 7562(hint)](https://www.acmicpc.net/problem/7562) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week02/Solution35.java)
-- [ ] [BaekJoon 2206](https://www.acmicpc.net/problem/2206) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week02/Solution36.java)
+- [x] [BaekJoon 2206(timeOut)](https://www.acmicpc.net/problem/2206) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week02/Solution36.java)
+- 2021-08-28 Saturday
+- [ ] [BaekJoon 11725](https://www.acmicpc.net/problem/11725) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week02/Solution37.java)
+
 </div>
 </details>
 
