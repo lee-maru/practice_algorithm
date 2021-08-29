@@ -95,6 +95,9 @@ I will find another answer. After 1 month I will solve problem again.
 - 2021-08-28 Saturday
 - [ ] [BaekJoon 11725](https://www.acmicpc.net/problem/11725) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week02/Solution37.java)
 - [ ] [BaekJoon 2644](https://www.acmicpc.net/problem/2644) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week02/Solution38.java)
+- 2021-08-28 Sunday
+- [x] [BaekJoon 13460(noIdea)](https://www.acmicpc.net/problem/13460) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week02/Solution39.java)
+
 </div>
 </details>
 
