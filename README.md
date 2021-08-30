@@ -103,10 +103,10 @@ I will find another answer. After 1 month I will solve problem again.
 
 ---
 
-### [DFS / Depth-First Search] [1/50]
+### [DFS / Depth-First Search]
 |Week|Algorithm|Success1|Success2|Success3|
 |------------|---------|---------|---------|---------|
-|3| DFS|1/20|0/20|0/20|
+|3| DFS|3/20|0/20|0/20|
 <details>
 <summary> <strong style="color:dodgerblue"> Click here!</strong> DFS Button</summary>
 <div markdown="1">
@@ -121,7 +121,7 @@ I will find another answer. After 1 month I will solve problem again.
 
 ---
 
-### [DP / Dynamic_programming] [0/50]
+### [DP / Dynamic_programming]
 |Week|Algorithm|Success1|Success2|Success3|
 |------------|---------|---------|---------|---------|
 |4| DP|0/20|0/20|0/20|
