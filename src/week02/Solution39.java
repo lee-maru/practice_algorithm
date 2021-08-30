@@ -1,18 +1,8 @@
 package week02;
 
-//https://www.acmicpc.net/problem/13460 못품
+//문제 : https://www.acmicpc.net/problem/13460
+//반례 모음 : https://www.acmicpc.net/board/view/51008
 
-/**
- * 틀린 반례
- * 7 6
- * ######
- * #.####
- * ##R#.#
- * ##..##
- * #B...#
- * #O####
- * ######
- */
 
 import java.util.*;
 

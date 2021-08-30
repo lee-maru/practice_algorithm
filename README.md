@@ -19,13 +19,13 @@ I will find another answer. After 1 month I will solve problem again.
 
 ---
 
-### Total solve : 36
+### Total solve : 39
 
 ---
-### [Greedy] [20/50]
+### [Greedy] 
 |Week|Algorithm|Success1|Success2|Success3|
 |------------|---------|---------|---------|---------|
-|1|Greedy|20/50|0/50|0/50|
+|1|Greedy|20/20|0/20|0/20|
 <details>
 <summary> <strong style="color:dodgerblue"> Click here! </strong> Greedy Button </summary>
 <div markdown="1">
@@ -63,10 +63,10 @@ I will find another answer. After 1 month I will solve problem again.
 
 ---
 
-### [BFS / Breadth-First Search] [11/50]
+### [BFS / Breadth-First Search]
 |Week|Algorithm|Success1|Success2|Success3|
 |------------|---------|---------|---------|---------|
-|2| BFS |16/50|0/50|0/50|
+|2| BFS |19/20|0/20|0/20|
 <details>
 <summary> <strong style="color:dodgerblue"> Click here!</strong> BFS Button</summary>
 <div markdown="1">
@@ -103,13 +103,17 @@ I will find another answer. After 1 month I will solve problem again.
 
 ---
 
-### [DFS / Depth-First Search] [0/50]
+### [DFS / Depth-First Search] [1/50]
 |Week|Algorithm|Success1|Success2|Success3|
 |------------|---------|---------|---------|---------|
-|3| DFS|0/50|0/50|0/50|
+|3| DFS|1/20|0/20|0/20|
 <details>
 <summary> <strong style="color:dodgerblue"> Click here!</strong> DFS Button</summary>
 <div markdown="1">
+
+- 2021-09-06 Monday
+- [ ] [BaekJoon 16236](https://www.acmicpc.net/problem/16236) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution41.java)
+- [ ] [BaekJoon 2606](https://www.acmicpc.net/problem/2606) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution42.java)
 
 </div>
 </details>
@@ -119,7 +123,7 @@ I will find another answer. After 1 month I will solve problem again.
 ### [DP / Dynamic_programming] [0/50]
 |Week|Algorithm|Success1|Success2|Success3|
 |------------|---------|---------|---------|---------|
-|4| DP|0/50|0/50|0/50|
+|4| DP|0/20|0/20|0/20|
 <details>
 <summary> <strong style="color:dodgerblue"> Click here!</strong> DP Button</summary>
 <div markdown="1">
