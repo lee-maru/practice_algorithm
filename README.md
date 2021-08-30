@@ -106,7 +106,7 @@ I will find another answer. After 1 month I will solve problem again.
 ### [DFS / Depth-First Search]
 |Week|Algorithm|Success1|Success2|Success3|
 |------------|---------|---------|---------|---------|
-|3| DFS|3/20|0/20|0/20|
+|3| DFS|6/20|0/20|0/20|
 <details>
 <summary> <strong style="color:dodgerblue"> Click here!</strong> DFS Button</summary>
 <div markdown="1">
@@ -117,6 +117,7 @@ I will find another answer. After 1 month I will solve problem again.
 - [ ] [BaekJoon 1012](https://www.acmicpc.net/problem/1012) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution43.java)
 - [ ] [BaekJoon 11724](https://www.acmicpc.net/problem/11724) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution44.java)
 - [ ] [BaekJoon 4963](https://www.acmicpc.net/problem/4963) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution45.java)
+- [ ] [BaekJoon 2468](https://www.acmicpc.net/problem/2468) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution46.java)
 
 </div>
 </details>
