@@ -112,8 +112,9 @@ I will find another answer. After 1 month I will solve problem again.
 <div markdown="1">
 
 - 2021-09-06 Monday
-- [ ] [BaekJoon 16236](https://www.acmicpc.net/problem/16236) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution41.java)
+- [ ] [BaekJoon 2667](https://www.acmicpc.net/problem/2667) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution41.java)
 - [ ] [BaekJoon 2606](https://www.acmicpc.net/problem/2606) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution42.java)
+- [ ] [BaekJoon 1012](https://www.acmicpc.net/problem/1012) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution43.java)
 
 </div>
 </details>
