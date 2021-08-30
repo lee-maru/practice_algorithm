@@ -116,6 +116,7 @@ I will find another answer. After 1 month I will solve problem again.
 - [ ] [BaekJoon 2606](https://www.acmicpc.net/problem/2606) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution42.java)
 - [ ] [BaekJoon 1012](https://www.acmicpc.net/problem/1012) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution43.java)
 - [ ] [BaekJoon 11724](https://www.acmicpc.net/problem/11724) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution44.java)
+- [ ] [BaekJoon 4963](https://www.acmicpc.net/problem/4963) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution45.java)
 
 </div>
 </details>
