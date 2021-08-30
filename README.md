@@ -19,7 +19,7 @@ I will find another answer. After 1 month I will solve problem again.
 
 ---
 
-### Total solve : 39
+### Total solve : 45
 
 ---
 ### [Greedy] 
