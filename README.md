@@ -122,6 +122,7 @@ I will find another answer. After 1 month I will solve problem again.
 - 2021-08-30 Tuesday
 - [ ] [BaekJoon 1987](https://www.acmicpc.net/problem/1987) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution47.java)
 - [ ] [BaekJoon 10026](https://www.acmicpc.net/problem/10026) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution48.java)
+- [ ] [BaekJoon 2583](https://www.acmicpc.net/problem/2583) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution49.java)
 
 </div>
 </details>
