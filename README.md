@@ -19,7 +19,7 @@ I will find another answer. After 1 month I will solve problem again.
 
 ---
 
-### Total solve : 45
+### Total solve : 47
 
 ---
 ### [Greedy] 
@@ -95,7 +95,7 @@ I will find another answer. After 1 month I will solve problem again.
 - 2021-08-28 Saturday
 - [ ] [BaekJoon 11725](https://www.acmicpc.net/problem/11725) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week02/Solution37.java)
 - [ ] [BaekJoon 2644](https://www.acmicpc.net/problem/2644) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week02/Solution38.java)
-- 2021-08-28 Sunday
+- 2021-08-29 Sunday
 - [x] [BaekJoon 13460(noIdea)](https://www.acmicpc.net/problem/13460) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week02/Solution39.java)
 
 </div>
@@ -106,18 +106,21 @@ I will find another answer. After 1 month I will solve problem again.
 ### [DFS / Depth-First Search]
 |Week|Algorithm|Success1|Success2|Success3|
 |------------|---------|---------|---------|---------|
-|3| DFS|6/20|0/20|0/20|
+|3| DFS|7/20|0/20|0/20|
 <details>
 <summary> <strong style="color:dodgerblue"> Click here!</strong> DFS Button</summary>
 <div markdown="1">
 
-- 2021-09-06 Monday
+- 2021-08-30 Monday
 - [ ] [BaekJoon 2667](https://www.acmicpc.net/problem/2667) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution41.java)
 - [ ] [BaekJoon 2606](https://www.acmicpc.net/problem/2606) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution42.java)
 - [ ] [BaekJoon 1012](https://www.acmicpc.net/problem/1012) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution43.java)
 - [ ] [BaekJoon 11724](https://www.acmicpc.net/problem/11724) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution44.java)
 - [ ] [BaekJoon 4963](https://www.acmicpc.net/problem/4963) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution45.java)
 - [ ] [BaekJoon 2468](https://www.acmicpc.net/problem/2468) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution46.java)
+
+- 2021-08-30 Tuesday
+- [ ] [BaekJoon 1987](https://www.acmicpc.net/problem/1987) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution4.java)
 
 </div>
 </details>
