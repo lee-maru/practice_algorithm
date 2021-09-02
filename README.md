@@ -19,7 +19,7 @@ I will find another answer. After 1 month I will solve problem again.
 
 ---
 
-### Total solve : 47
+### Total solve : 50
 
 ---
 ### [Greedy] 
@@ -106,7 +106,7 @@ I will find another answer. After 1 month I will solve problem again.
 ### [DFS / Depth-First Search]
 |Week|Algorithm|Success1|Success2|Success3|
 |------------|---------|---------|---------|---------|
-|3| DFS|7/20|0/20|0/20|
+|3| DFS|11/20|0/20|0/20|
 <details>
 <summary> <strong style="color:dodgerblue"> Click here!</strong> DFS Button</summary>
 <div markdown="1">
@@ -126,7 +126,10 @@ I will find another answer. After 1 month I will solve problem again.
 - [ ] [BaekJoon 11725](https://www.acmicpc.net/problem/11725) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution50.java)
 
 - 2021-09-01 Wednesday
-- [x] [BaekJoon 1520(시간초과)](https://www.acmicpc.net/problem/1520) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution51.java)
+- [x] [BaekJoon 1520(memory)](https://www.acmicpc.net/problem/1520) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution51.java)
+
+- 2021-08-19 Thursday
+- [ ] [BaekJoon 2644(시간초과)](https://www.acmicpc.net/problem/2644) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution52.java)
 
 </div>
 </details>
