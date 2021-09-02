@@ -129,7 +129,8 @@ I will find another answer. After 1 month I will solve problem again.
 - [x] [BaekJoon 1520(memory)](https://www.acmicpc.net/problem/1520) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution51.java)
 
 - 2021-08-19 Thursday
-- [ ] [BaekJoon 2644(시간초과)](https://www.acmicpc.net/problem/2644) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution52.java)
+- [ ] [BaekJoon 2644](https://www.acmicpc.net/problem/2644) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution52.java)
+- [ ] [BaekJoon 1707](https://www.acmicpc.net/problem/1707) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution53.java)
 
 </div>
 </details>
