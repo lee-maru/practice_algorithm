@@ -28,7 +28,15 @@ public class Test{
     }
 
     public static void main(String[] args) {
-        List<Box> boxes = new ArrayList<>();
+        String str = "            ";
+        System.out.println("'"+str+"'");
+        String trim = str.trim();
+        System.out.println("'"+trim+"'");
+        System.out.println(trim.equals(""));
+
+
+
+      /*  List<Box> boxes = new ArrayList<>();
         Box[] boxList = new Box[10];
 
         for (int i = 0; i < boxList.length; i++) {
@@ -51,7 +59,7 @@ public class Test{
         for(Box b : boxList){
             System.out.println(b.size);
         }
-
+*/
     }
 
 }

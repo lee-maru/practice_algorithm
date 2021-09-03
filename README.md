@@ -131,6 +131,8 @@ I will find another answer. After 1 month I will solve problem again.
 - 2021-08-19 Thursday
 - [ ] [BaekJoon 2644](https://www.acmicpc.net/problem/2644) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution52.java)
 - [ ] [BaekJoon 1707](https://www.acmicpc.net/problem/1707) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution53.java)
+- 2021-08-19 Friday
+- [ ] [BaekJoon 2573](https://www.acmicpc.net/problem/2573) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution54.java)
 
 </div>
 </details>
