@@ -1,8 +1,18 @@
-<center> 
 
-![img.png](img.png)
+<p align="center">
+
 ## Maru's Algorithm practice
-</center>
+
+  <img src="https://media.vingle.net/images/ca_l/ln97wmqcle.jpg">
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lee-maru/practice_algorithm)](https://hits.seeyoufarm.com)
+
+</p>
+
+
+ 
 
 ---
 ### Description
@@ -19,7 +29,7 @@ I will find another answer. After 1 month I will solve problem again.
 
 ---
 
-### Total solve : 50
+### Total solve : 56
 
 ---
 ### [Greedy] 
@@ -106,7 +116,7 @@ I will find another answer. After 1 month I will solve problem again.
 ### [DFS / Depth-First Search]
 |Week|Algorithm|Success1|Success2|Success3|
 |------------|---------|---------|---------|---------|
-|3| DFS|11/20|0/20|0/20|
+|3| DFS|16/20|0/20|0/20|
 <details>
 <summary> <strong style="color:dodgerblue"> Click here!</strong> DFS Button</summary>
 <div markdown="1">
@@ -152,5 +162,4 @@ I will find another answer. After 1 month I will solve problem again.
 </details>
 
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lee-maru/practice_algorithm)](https://hits.seeyoufarm.com)                    
 
