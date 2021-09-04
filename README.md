@@ -118,22 +118,22 @@ I will find another answer. After 1 month I will solve problem again.
 - [ ] [BaekJoon 11724](https://www.acmicpc.net/problem/11724) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution44.java)
 - [ ] [BaekJoon 4963](https://www.acmicpc.net/problem/4963) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution45.java)
 - [ ] [BaekJoon 2468](https://www.acmicpc.net/problem/2468) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution46.java)
-
 - 2021-08-31 Tuesday
 - [ ] [BaekJoon 1987](https://www.acmicpc.net/problem/1987) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution47.java)
 - [ ] [BaekJoon 10026](https://www.acmicpc.net/problem/10026) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution48.java)
 - [ ] [BaekJoon 2583](https://www.acmicpc.net/problem/2583) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution49.java)
 - [ ] [BaekJoon 11725](https://www.acmicpc.net/problem/11725) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution50.java)
-
 - 2021-09-01 Wednesday
 - [x] [BaekJoon 1520(memory)](https://www.acmicpc.net/problem/1520) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution51.java)
-
-- 2021-08-19 Thursday
+- 2021-09-02 Thursday
 - [ ] [BaekJoon 2644](https://www.acmicpc.net/problem/2644) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution52.java)
 - [ ] [BaekJoon 1707](https://www.acmicpc.net/problem/1707) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution53.java)
-- 2021-08-19 Friday
+- 2021-09-03 Friday
 - [ ] [BaekJoon 2573](https://www.acmicpc.net/problem/2573) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution54.java)
-- [x] [BaekJoon 1937(timeOut)](https://www.acmicpc.net/problem/1937) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution55.java)
+- [x] [BaekJoon 1937(timeOut & after DP)](https://www.acmicpc.net/problem/1937) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution55.java)
+- 2021-09-04 Friday
+- [ ] [BaekJoon 2573](https://www.acmicpc.net/problem/1976) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution56.java)
+
 
 </div>
 </details>
@@ -152,3 +152,5 @@ I will find another answer. After 1 month I will solve problem again.
 </details>
 
 ---
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lee-maru/practice_algorithm)](https://hits.seeyoufarm.com)                    
+
