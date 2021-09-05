@@ -5,9 +5,7 @@
 
   <img src="https://media.vingle.net/images/ca_l/ln97wmqcle.jpg">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lee-maru/practice_algorithm)](https://hits.seeyoufarm.com)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lee-maru/practice_algorithm)](https://hits.seeyoufarm.com)
 
 </p>
 
@@ -141,8 +139,8 @@ I will find another answer. After 1 month I will solve problem again.
 - 2021-09-03 Friday
 - [ ] [BaekJoon 2573](https://www.acmicpc.net/problem/2573) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution54.java)
 - [x] [BaekJoon 1937(timeOut & after DP)](https://www.acmicpc.net/problem/1937) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution55.java)
-- 2021-09-04 Friday
-- [ ] [BaekJoon 2573](https://www.acmicpc.net/problem/1976) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution56.java)
+- 2021-09-04 Saturday
+- [ ] [BaekJoon 2573](https://www.acmicpc.net/problem/1967) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution56.java)
 
 
 </div>
