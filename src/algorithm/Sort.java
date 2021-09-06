@@ -1,3 +1,5 @@
+package algorithm;
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.ArrayList;
@@ -5,7 +7,7 @@ import java.util.ArrayList;
 /**
  * This is test notepad
  */
-public class Test{
+public class Sort{
     static class Box implements Comparable<Box>{
         String name;
         int size;

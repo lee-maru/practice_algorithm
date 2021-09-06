@@ -141,7 +141,8 @@ I will find another answer. After 1 month I will solve problem again.
 - [x] [BaekJoon 1937(timeOut & after DP)](https://www.acmicpc.net/problem/1937) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution55.java)
 - 2021-09-04 Saturday
 - [ ] [BaekJoon 2573](https://www.acmicpc.net/problem/1967) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution56.java)
-
+- 2021-09-05 Sunday
+- [x] [BaekJoon 9466(timeOut & after DP)](https://www.acmicpc.net/problem/9466) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week03/Solution57.java)
 
 </div>
 </details>
@@ -155,6 +156,10 @@ I will find another answer. After 1 month I will solve problem again.
 <details>
 <summary> <strong style="color:dodgerblue"> Click here!</strong> DP Button</summary>
 <div markdown="1">
+
+- 2021-09-06 Monday
+- [fibonacciTest](https://github.com/lee-maru/practice_algorithm/blob/master/src/DynamicProgramming.java)
+- [ ] [BaekJoon 2839](https://www.acmicpc.net/problem/2839) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week04/Solution58.java)
 
 </div>
 </details>
