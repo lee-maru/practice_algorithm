@@ -27,7 +27,7 @@ I will find another answer. After 1 month I will solve problem again.
 
 ---
 
-### Total solve : 56
+### Total solve : 58
 
 ---
 ### [Greedy] 
@@ -114,7 +114,7 @@ I will find another answer. After 1 month I will solve problem again.
 ### [DFS / Depth-First Search]
 |Week|Algorithm|Success1|Success2|Success3|
 |------------|---------|---------|---------|---------|
-|3| DFS|16/20|0/20|0/20|
+|3| DFS|17/20|0/20|0/20|
 <details>
 <summary> <strong style="color:dodgerblue"> Click here!</strong> DFS Button</summary>
 <div markdown="1">
@@ -159,7 +159,8 @@ I will find another answer. After 1 month I will solve problem again.
 
 - 2021-09-06 Monday
 - [fibonacciTest](https://github.com/lee-maru/practice_algorithm/blob/master/src/DynamicProgramming.java)
-- [ ] [BaekJoon 2839](https://www.acmicpc.net/problem/2839) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week04/Solution58.java)
+- 2021-09-07 Tuesday
+- [ ] [BaekJoon 1463](https://www.acmicpc.net/problem/9095) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week04/Solution58.java)
 
 </div>
 </details>
