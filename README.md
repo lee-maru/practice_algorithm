@@ -152,7 +152,7 @@ I will find another answer. After 1 month I will solve problem again.
 ### [DP / Dynamic_programming]
 |Week|Algorithm|Success1|Success2|Success3|
 |------------|---------|---------|---------|---------|
-|4| DP|0/20|0/20|0/20|
+|4| DP|2/20|0/20|0/20|
 <details>
 <summary> <strong style="color:dodgerblue"> Click here!</strong> DP Button</summary>
 <div markdown="1">
