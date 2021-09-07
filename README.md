@@ -152,7 +152,7 @@ I will find another answer. After 1 month I will solve problem again.
 ### [DP / Dynamic_programming]
 |Week|Algorithm|Success1|Success2|Success3|
 |------------|---------|---------|---------|---------|
-|4| DP|2/20|0/20|0/20|
+|4| DP|4/20|0/20|0/20|
 <details>
 <summary> <strong style="color:dodgerblue"> Click here!</strong> DP Button</summary>
 <div markdown="1">
@@ -160,7 +160,9 @@ I will find another answer. After 1 month I will solve problem again.
 - 2021-09-06 Monday
 - [fibonacciTest](https://github.com/lee-maru/practice_algorithm/blob/master/src/DynamicProgramming.java)
 - 2021-09-07 Tuesday
-- [ ] [BaekJoon 1463](https://www.acmicpc.net/problem/9095) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week04/Solution58.java)
+- [ ] [BaekJoon 9095](https://www.acmicpc.net/problem/9095) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week04/Solution58.java)
+- [ ] [BaekJoon 1003](https://www.acmicpc.net/problem/1003) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week04/Solution59.java)
+- [ ] [BaekJoon 10870](https://www.acmicpc.net/problem/10870) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week04/Solution60.java)
 
 </div>
 </details>
