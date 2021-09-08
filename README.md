@@ -163,6 +163,8 @@ I will find another answer. After 1 month I will solve problem again.
 - [ ] [BaekJoon 9095](https://www.acmicpc.net/problem/9095) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week04/Solution58.java)
 - [ ] [BaekJoon 1003](https://www.acmicpc.net/problem/1003) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week04/Solution59.java)
 - [ ] [BaekJoon 10870](https://www.acmicpc.net/problem/10870) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week04/Solution60.java)
+- 2021-09-08 Wednesday
+- [ ] [BaekJoon 11726](https://www.acmicpc.net/problem/11726) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week04/Solution61.java)
 
 </div>
 </details>
