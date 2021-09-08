@@ -165,6 +165,7 @@ I will find another answer. After 1 month I will solve problem again.
 - [ ] [BaekJoon 10870](https://www.acmicpc.net/problem/10870) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week04/Solution60.java)
 - 2021-09-08 Wednesday
 - [ ] [BaekJoon 11726](https://www.acmicpc.net/problem/11726) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week04/Solution61.java)
+- [ ] [BaekJoon 1149](https://www.acmicpc.net/problem/1149) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week04/Solution62.java)
 
 </div>
 </details>
