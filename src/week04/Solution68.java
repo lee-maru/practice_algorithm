@@ -9,6 +9,10 @@ public class Solution68 {
         int N = sc.nextInt() + 1;
         int[] cache = new int[N];
         int[] list = new int[N];
+        if(N == 2){
+            System.out.println(sc.nextInt());
+            return;
+        }
         for (int i = 1; i < N; i++) {
             list[i] = sc.nextInt();
         }
@@ -18,11 +22,13 @@ public class Solution68 {
         for (int i = 3; i < N; i++) {
             int max = 0;
             for (int j = 3; i-j >= 0; j++) {
-                max = Math.max(list[i] + list[i - 1] + cache[i - j], Math.max(list[i] + cache[i - j],max));
+                int temp = list[i] + list[i - 1] + cache[i - j];
+                int temp2 = list[i] + cache[i - (j-1)];
+                max = Math.max(temp, Math.max(temp2,max));
             }
             cache[i] = max;
         }
         Arrays.sort(cache);
-        System.out.println(cache[N - 1]);
+        System.out.println(cache[N-1]);
     }
 }
