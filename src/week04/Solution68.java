@@ -25,4 +25,4 @@ public class Solution68 {
         Arrays.sort(cache);
         System.out.println(cache[N - 1]);
     }
-} 
+}
