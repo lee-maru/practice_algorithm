@@ -65,6 +65,8 @@ I will find another answer. After 1 month I will solve problem again.
 - [x] [BaekJoon 1202 (timeOut)](https://www.acmicpc.net/problem/1202) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week01/Solution18.java)
 - [x] [BaekJoon 2437 (noIdea)](https://www.acmicpc.net/problem/2437) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week01/Solution19.java)
 - [ ] [BaekJoon 1449](https://www.acmicpc.net/problem/1449) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week01/Solution20.java)
+- 2021-09-13 Monday
+- - [ ] [BaekJoon 1449](https://www.acmicpc.net/problem/1946) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week05/Solution69.java)
 
 </div>
 </details>
