@@ -47,5 +47,6 @@ public class Solution70 {
         for (int i = 0; i < solution.length; i++) {
             System.out.print(solution[i]+ " ");
         }
+
     }
 }
