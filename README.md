@@ -69,6 +69,8 @@ I will find another answer. After 1 month I will solve problem again.
 [ ] [BaekJoon 1449](https://www.acmicpc.net/problem/1946) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week05/Solution69.java)
 - 2021-09-14 Tuesday
 [ ] [Programmers_142586](https://programmers.co.kr/learn/courses/30/lessons/42586) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week05/Solution70.java)
+[ ] [Programmers_42587](https://programmers.co.kr/learn/courses/30/lessons/42587) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week05/Solution71.java)
+[ ] [Programmers_42583](https://programmers.co.kr/learn/courses/30/lessons/42583) : [code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week05/Solution72.java)
 
 </div>
 </details>
