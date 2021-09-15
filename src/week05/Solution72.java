@@ -6,12 +6,16 @@ public class Solution72 {
     public static void main(String[] args) throws InterruptedException {
 
         Solution72 s = new Solution72();
-        int[] truck_weights = {10, 10, 10, 10, 10, 10, 10, 10, 10, 10};
+        /*int[] truck_weights = {10, 10, 10, 10, 10, 10, 10, 10, 10, 10};
         int weight = 100;
         int bridge_length = 100;
 
         int time = s.solution(bridge_length, weight, truck_weights);
-        System.out.println(time);
+        System.out.println(time);*/
+        int[] D = {2,5,9,2,1,4};
+        int X = 4;
+        /*System.out.println(s.task3(D, X));*/
+
     }
 
     public int solution(int bridge_length, int weight, int[] truck_weights) throws InterruptedException {
@@ -52,4 +56,20 @@ public class Solution72 {
 
         return time;
     }
+
+/*    public int task3(int[] D, int X){
+        int cnt = 1;
+        int beforeLevel = D[0];
+        // 조건 1
+        for (int i = 1; i < D.length; i++) {
+            System.out.println(D[i]);
+            if(Math.abs(D[i] - beforeLevel) > X){
+                System.out.println(D[i] + " > " + beforeLevel);
+                beforeLevel = D[i];
+                cnt++;
+            }
+
+        }
+        return cnt;
+    }*/
 }
