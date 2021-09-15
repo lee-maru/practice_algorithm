@@ -1,5 +1,6 @@
 package week05;
 
+// https://programmers.co.kr/learn/courses/30/lessons/43162
 import java.util.*;
 public class Solution74 {
     public static void main(String[] args) {

@@ -39,14 +39,12 @@ public class Solution72 {
                 }else{
                     cnt = bridge_length-1;
                 }
-                System.out.println("truck 나옴 " + truck);
                 bridgeWeight = bridgeWeight - truck;
                 bridgeLength = bridgeLength - 1;
             }
             if (bridge_length >= bridgeLength + 1
             && index < truck_weights.length && weight >= bridgeWeight + truck_weights[index]) {
                 q.offer(truck_weights[index]);
-                System.out.println("truck 들어감 " + truck_weights[index]);
                 bridgeWeight = bridgeWeight + truck_weights[index];
                 bridgeLength++;
                 index++;
