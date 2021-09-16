@@ -181,6 +181,7 @@ I will find another answer. After 1 month I will solve problem again.
 - 2021-09-15 Wednesday
 - [BFS] [Programmers_43162](https://programmers.co.kr/learn/courses/30/lessons/43162) : [github code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week05/Solution74.java)
 - [BFS] [Programmers_43163](https://programmers.co.kr/learn/courses/30/lessons/43163) : [github code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week05/Solution75.java)
+- 2021-09-16 Thursday
 - [BFS] [Programmers_43164](https://programmers.co.kr/learn/courses/30/lessons/43164) : [github code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week05/Solution76.java)
 
 </div>

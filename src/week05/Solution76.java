@@ -1,57 +1,62 @@
 package week05;
 
 import java.util.*;
+
+//{{"ICN", "AOO"}, {"AOO", "BOO"}, {"BOO", "COO"}, {"COO", "DOO"}, {"DOO", "EOO"}, {"EOO", "DOO"}, {"DOO", "COO"}, {"COO", "BOO"}, {"BOO", "AOO"}}
+//{{"ICN", "SFO"}, {"ICN", "ATL"}, {"SFO", "ATL"}, {"ATL", "ICN"}, {"ATL","SFO"}}
+//{{"ICN", "A"}, {"ICN", "A"}, {"A", "ICN"}, {"A" , "C"}}
 public class Solution76 {
     public static void main(String[] args) {
-        String[][] tickets = {{"ICN", "JFK"}, {"HND", "IAD"}, {"JFK", "HND"}};
+        String[][] tickets = {{"ICN", "AOO"}, {"AOO", "BOO"}, {"BOO", "COO"}, {"COO", "DOO"}, {"DOO", "EOO"}, {"EOO", "DOO"}, {"DOO", "COO"}, {"COO", "BOO"}, {"BOO", "AOO"}};
         Solution76 s = new Solution76();
         String[] solution = s.solution(tickets);
         for (int i = 0; i < solution.length; i++) {
             System.out.println(solution[i]);
         }
     }
-    public String[] solution(String[][] tickets) {
-        List<String> result = new ArrayList<>();
-        Queue<String> q = new LinkedList<>();
 
-        Map<String, List<String>> map = new HashMap<>();
+    static Map<String, List<String>> map = new HashMap<>();
+    static List<String> results = new ArrayList<>();
+    static String beforeNode = "ICN";
+
+    public String[] solution(String[][] tickets) {
 
         for (int i = 0; i < tickets.length; i++) {
             String ticket = tickets[i][0];
-            if(!map.containsKey(ticket)){
-                map.put(ticket,new ArrayList<>());
+            if (!map.containsKey(ticket)) {
+                map.put(ticket, new ArrayList<>());
             }
 
             List<String> strings = map.get(ticket);
+
             strings.add(tickets[i][1]);
-            map.put(ticket,strings);
 
+            map.put(ticket, strings);
         }
+        dfs("ICN", 0, tickets.length + 1);
 
-        q.offer("ICN");
-        result.add("ICN");
-
-        while (!q.isEmpty()){
-            String start = q.poll();
-            List<String> others = map.get(start);
-
-            if(others == null)
-                break;
-
-            Collections.sort(others);
-
-            for (int i = 0; i < others.size(); i++) {
-                if(!"visited".equals(others.get(i))){
-                    String otherTicket = others.get(i);
-                    q.offer(otherTicket);
-                    result.add(otherTicket);
-                    others.set(i,"visited");
-                }
-            }
-        }
-
-        return result.toArray(new String[0]);
+        return results.toArray(new String[0]);
     }
 
+    public boolean check(List<String> list) {
+        for (int i = 0; i < list.size(); i++) {
+            if (!"visited".equals(list.get(i))) {
+                return true;
+            }
+        }
+        return false;
+    }
 
+    public void dfs(String node, int cnt, int max) {
+
+        results.add(node);
+        List<String> otherNodes = map.get(node); // 현재 티켓으로 갈 수 있는 다른 티켓을 뽑아냄
+        Collections.sort(otherNodes); // 정렬 진행
+        System.out.println(node + " -> " + otherNodes);
+        for (int i = 0; i < otherNodes.size(); i++) {
+            if (!"visited".equals(otherNodes.get(i))) {
+                otherNodes.set(i, "visited");
+            }
+        }
+    }
 }

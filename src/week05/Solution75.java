@@ -10,6 +10,7 @@ public class Solution75 {
         Solution75 s = new Solution75();
         System.out.println(s.solution(begin, target, list));
 
+
     }
 
     static class Node{
