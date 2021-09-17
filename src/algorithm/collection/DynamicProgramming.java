@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.collection;
 
 // fibonacci 연습
 
