@@ -165,7 +165,7 @@ I will find another answer. After 1 month I will solve problem again.
 
 ### [5 week]
 <details>
-<summary> <strong style="color:dodgerblue"> Click here!</strong> DP Button</summary>
+<summary> <strong style="color:dodgerblue"> Click here!</strong> Button</summary>
 <div markdown="1">
 
 - 2021-09-13 Monday
