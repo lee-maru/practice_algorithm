@@ -168,7 +168,7 @@ I will find another answer. After 1 month I will solve problem again.
 
 ### [5 week]
 <details>
-<summary> <strong style="color:dodgerblue"> Click here!</strong> DP Button</summary>
+<summary> <strong style="color:dodgerblue"> Click here!</strong> Button</summary>
 <div markdown="1">
 
 - 2021-09-13 Monday
@@ -183,6 +183,17 @@ I will find another answer. After 1 month I will solve problem again.
 - [BFS] [Programmers_43163](https://programmers.co.kr/learn/courses/30/lessons/43163) : [github code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week05/Solution75.java)
 - 2021-09-16 Thursday
 - [BFS] [Programmers_43164](https://programmers.co.kr/learn/courses/30/lessons/43164) : [github code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week05/Solution76.java)
+
+</div>
+</details>
+
+### [6 week]
+<details>
+<summary> <strong style="color:dodgerblue"> Click here!</strong> Button</summary>
+<div markdown="1">
+
+- 2021-09-21 Tuesday
+- [Greedy] [BaekJoon 1946](https://www.acmicpc.net/problem/1946) : [github code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week06/Solution77.java)
 
 </div>
 </details>
