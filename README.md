@@ -201,7 +201,8 @@ I will find another answer. After 1 month I will solve problem again.
 <div markdown="1">
 
 - 2021-09-21 Tuesday
-- [String] [BaekJoon 9012](https://www.acmicpc.net/problem/1946) : [github code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week06/Solution78.java)
-- [String] [BaekJoon 1316](https://www.acmicpc.net/problem/1316) : [github code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week06/Solution79.java)
+- [String] [BaekJoon 9012](https://www.acmicpc.net/problem/1946) : [github code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week07/Solution78.java)
+- [String] [BaekJoon 1316](https://www.acmicpc.net/problem/1316) : [github code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week07/Solution79.java)
+- [String] [BaekJoon 2941](https://www.acmicpc.net/problem/2941) : [github code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week07/Solution80.java)
 </div>
 </details>

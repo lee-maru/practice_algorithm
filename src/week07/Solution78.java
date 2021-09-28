@@ -11,10 +11,11 @@ public class Solution78 {
             String[] split = sc.next().split("");
 
             Stack<String> stack = new Stack<>();
-
             for (String s : split) {
+
                 if ("(".equals(s)){
                     stack.push("(");
+                    break;
                 }else{
                     if(stack.size() != 0){
                         stack.pop();
