@@ -1,61 +1,67 @@
 package week07;
 
 import java.util.*;
+import java.util.stream.Collectors;
+
+/**
+ * https://www.acmicpc.net/board/view/25456
+ */
 public class Solution81 {
+    static String[] results;
     public static void main(String[] args) {
-        long start = System.nanoTime();
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();
-        String[] results = new String[T];
+        results = new String[T];
         for (int i = 0; i < T; i++) {
+            int finalI = i;
             String order = sc.next();
             int length = sc.nextInt();
             String str = sc.next();
-            results[i] = solve(str, order);
+            Thread thread = new Thread(() -> solve(str, order, length, finalI));
+            thread.start();
         }
 
         for (String result : results) {
             System.out.println(result);
         }
-        long end = System.nanoTime();
-        System.out.println("걸린 시간 --> (" + (end-start) + ")");
     }
-    //2315214723
-    //2890352288
-    public static String solve(String str, String order){
-        StringBuilder result = new StringBuilder();
-        String[] split1 = str.split("\\D");
-        for (int i = 0; i < split1.length; i++) {
-            String s = split1[i];
-            System.out.print("'"+s+"'");
-        }
-        List<String> split = Arrays.asList(split1);
-        System.out.println(split);
-        String[] orders = order.replaceAll("RD", "R D").replaceAll("DR", "D R").split(" ");
+    public static void solve(String str, String order, int length, int index){
+        List<String> split = new ArrayList<>(Arrays.asList(str.split("\\D")));
 
-        for (int i = 0; i < orders.length; i++) {
-            if('R' == orders[i].charAt(0)){
-                if(orders[i].length()%2 == 1){
-                    split.sort(Comparator.reverseOrder());
-                }
-            }else if('D' == orders[i].charAt(0)){
-                if(orders[i].length() < split.size()){
-                    split = split.subList(orders[i].length(), split.size());
-                }else{
-                    return "ERROR";
-                }
+        if(length != 0){
+            split.remove(0);
+        }
+
+        StringBuilder sb = new StringBuilder();
+
+        for (int i = 0; i < order.length(); i++) {
+            if('R' == order.charAt(i)){
+                sb.append('R');
+            }else if('D' == order.charAt(i)) {
+                sb.append('D');
             }
-        }
-        System.out.println(split);
-        result.append("[");
-        for (int i = 0; i < split.size(); i++) {
-            if(i == split.size()-1)
-                result.append(split.get(i));
-            else
-                result.append(split.get(i)).append(",");
-        }
-        result.append("]");
 
-        return result.toString();
+            if((i+1 < order.length() && order.charAt(i) != order.charAt(i+1)) || i == order.length()-1 ){
+
+                if('R' == sb.toString().charAt(0)){
+                    if(sb.toString().length()%2 == 1){
+                        split.sort(Comparator.reverseOrder());
+                    }
+                }
+
+                if('D' == sb.toString().charAt(0)){
+                    if(sb.toString().length() < split.size()){
+                        split = split.subList(sb.toString().length(), split.size());
+                    }else{
+                        results[index] = "ERROR";
+                        return;
+                    }
+                }
+
+                sb = new StringBuilder();
+            }
+
+        }
+        results[index] = split.stream().collect(Collectors.joining(",", "[", "]"));
     }
 }
