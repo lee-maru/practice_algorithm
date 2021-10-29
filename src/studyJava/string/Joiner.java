@@ -1,4 +1,4 @@
-package studyJava;
+package studyJava.string;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -12,11 +12,14 @@ public class Joiner {
         map.put("key3", "value3");
         map.put("key4", "value4");
         map.put("key5", "value5");
+
         System.out.println(map.toString());
+
         StringJoiner stringJoiner = new StringJoiner(",");
         for (String s : map.keySet()) {
             stringJoiner.add(s);
         }
+
         System.out.println(stringJoiner);
 
     }
