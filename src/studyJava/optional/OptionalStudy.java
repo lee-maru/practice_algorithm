@@ -73,16 +73,8 @@ public class OptionalStudy {
 
         redCar.findOwnerName().ifPresent(name -> printCarNameAndOwner(redCar.modelName, name));
         // monad
-        Optional<PersonInfo> personInfo = redCar.findOwnerName().flatMap(name -> findPersonInfoByName(name, personInfos));
-        personInfo.ifPresent(System.out::println);
 
-
-
-
-
-
-
-    /*    redCar.findOwnerName().ifPresent(name -> printCarNameAndOwner(redCar.getModelName(), name)); // void 메서드에서의 Optional 사용 (Consumer)
+        redCar.findOwnerName().ifPresent(name -> printCarNameAndOwner(redCar.getModelName(), name)); // void 메서드에서의 Optional 사용 (Consumer)
         blueCar.findOwnerName().ifPresent(name -> printCarNameAndOwner(blueCar.getModelName(), name)); // 실행 안됨
 
         Optional<PersonInfo> personInfoByName = findPersonInfoByName(redCar.findOwnerName().orElse(null), personInfos);
@@ -94,6 +86,5 @@ public class OptionalStudy {
 
         Optional<PersonInfo> personInfo2 = blueCar.findOwnerName().flatMap(name -> findPersonInfoByName(name, personInfos));
         personInfo2.ifPresent(System.out::println);
-*/
     }
 }
