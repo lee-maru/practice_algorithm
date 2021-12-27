@@ -19,7 +19,7 @@ If I can't solveing algorithm problem within 1hour,
 I will find another answer. After 1 month I will solve problem again.
 ```
 
-### Total solve : 73
+### Total solve : 74
 
 ---
 ### [1 week] 
@@ -58,7 +58,6 @@ I will find another answer. After 1 month I will solve problem again.
 </div>
 </details>
 
----
 
 ### [2 week]
 <details>
@@ -95,7 +94,6 @@ I will find another answer. After 1 month I will solve problem again.
 </div>
 </details>
 
----
 
 ### [3 week]
 
@@ -131,7 +129,6 @@ I will find another answer. After 1 month I will solve problem again.
 </div>
 </details>
 
----
 
 ### [4 week]
 
@@ -161,7 +158,6 @@ I will find another answer. After 1 month I will solve problem again.
 </div>
 </details>
 
----
 
 ### [5 week]
 <details>
@@ -204,5 +200,16 @@ I will find another answer. After 1 month I will solve problem again.
 - [String] [BaekJoon 9012](https://www.acmicpc.net/problem/1946) : [github code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week07/Solution78.java)
 - [String] [BaekJoon 1316](https://www.acmicpc.net/problem/1316) : [github code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week07/Solution79.java)
 - [String] [BaekJoon 2941](https://www.acmicpc.net/problem/2941) : [github code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week07/Solution80.java)
+</div>
+</details>
+
+
+### [9 week]
+<details>
+<summary> <strong style="color:dodgerblue"> Click here!</strong> Button</summary>
+<div markdown="1">
+
+- 2021-09-21 Tuesday
+- [String] [BaekJoon 1158](https://www.acmicpc.net/problem/1946) : [github code](https://github.com/lee-maru/practice_algorithm/blob/master/src/week09/Solution85.java)
 </div>
 </details>
