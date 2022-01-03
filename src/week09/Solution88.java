@@ -54,8 +54,6 @@ public class Solution88 {
                     
                 }
                 Double.parseDouble(pop);
-                Double.parseDouble(pop2);
-                oper()
             }
         }
     }
